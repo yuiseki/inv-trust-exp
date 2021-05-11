@@ -22,12 +22,12 @@ export const Home = () => {
   return (
     <>
       <Head>
-        <title>いろんな投資信託に10万円づつ投資してみた結果</title>
+        <title>いろんな投資信託に10万円づつ投資してみる実験</title>
       </Head>
       <div css={container}>
         <main>
           <h1 tw='text-5xl font-bold'>
-            いろんな投資信託に10万円づつ投資してみた結果
+            いろんな投資信託に10万円づつ投資してみる実験
           </h1>
           <div>
             {sortedData &&
